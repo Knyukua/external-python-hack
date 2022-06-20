@@ -5,4 +5,4 @@ Features:
 2) GlowESP
 3) Radarhack
 
-TODO: все еще стоит научиться делать красивый README
+Gotta do a lot of refactoring here, but currently I'm focused on my Unity game and internal CS:GO hack in C++.
